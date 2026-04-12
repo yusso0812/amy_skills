@@ -1,0 +1,10 @@
+{
+  "name": "amy-skills",
+  "description": "Amy의 AI 스킬 모음 — 유저 테스트, 퍼소나 토론, AB 인사이트, PM 커맨더 등",
+  "version": "1.0.0",
+  "author": {
+    "name": "amy",
+    "url": "https://github.com/yusso0812"
+  },
+  "repository": "https://github.com/yusso0812/amy_skills"
+}

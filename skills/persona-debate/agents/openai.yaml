@@ -1,0 +1,7 @@
+interface:
+  display_name: "페르소나 토론"
+  short_description: "AI 페르소나 5명이 기획을 구조적으로 검증"
+  default_prompt: "Use $persona-debate to run a five-persona debate on this plan and produce an actionable report."
+
+policy:
+  allow_implicit_invocation: false

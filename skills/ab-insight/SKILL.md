@@ -18,7 +18,7 @@ user_invocable: true
 
 ### Step 1 — A/B 기록 읽기
 
-`/Users/amy/Desktop/workspace/무제 폴더/ab_test_records.md` 파일을 읽는다.
+`/Users/amy/Documents/skills/skills/ab-insight/ab_test_records.md` 파일을 읽는다.
 파일이 크므로 전체를 순차 읽기하여 31개 테스트를 모두 파악한다.
 
 ### Step 2 — 고민 분류

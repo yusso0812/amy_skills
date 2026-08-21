@@ -18,8 +18,8 @@ user_invocable: true
 
 ### Step 1 — A/B 기록 읽기
 
-`/Users/amy/Documents/skills/skills/ab-insight/ab_test_records.md` 파일을 읽는다.
-파일이 크므로 전체를 순차 읽기하여 31개 테스트를 모두 파악한다.
+`/Users/amy/claude-code-workspace/skills/skills/ab-insight/ab_test_records.md` 파일을 읽는다.
+파일이 크므로 전체를 순차 읽기한다. 수록된 테스트 수는 문서 상단 **§ 목차** 표가 기준이다(2026-08 기준 48개) — 목차 행 수를 먼저 확인하고 그만큼 모두 파악한다.
 
 ### Step 2 — 고민 분류
 
